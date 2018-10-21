@@ -1,4 +1,4 @@
-# OPV_ScharberDiagram
+# possible efficiency for organic photovoltaic cell
 drawing Scharber's diagram
 values and formula taken from 
 DOI:10.1002/adma.200501717
